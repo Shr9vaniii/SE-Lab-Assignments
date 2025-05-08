@@ -209,10 +209,6 @@ void copy(tree* ori,tree* &dupli){
 }
 
 
-
-
-
-
 int main() {
    tree * root=new tree(1);
    insertnodeleft(root,2);
